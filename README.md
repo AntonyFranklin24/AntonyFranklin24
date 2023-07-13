@@ -2,9 +2,9 @@
 
 <h1 align="center">Hey veiwer, I'm Frank 🙋🏻</h1>
 
-<h3 align="center">A software developer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with are Visual Studio Code and Eclipse as tools/platforms.</h3>
+<h3 align="center">Software developer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with are Visual Studio Code and Eclipse as tools/platforms.</h3>
 
-
+<br>
 
 <img align="right" alt="coding" width="300" src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966">
 
@@ -38,10 +38,14 @@
 
 [![@antonyfranklin24's Holopin board](https://www.holopin.io/api/user/board?user=antonyfranklin24)](https://www.holopin.io/@antonyfranklin24)
 
-[![spotify-profile](https://www.open.spotify.com/api/user=3177qahnz2xbnaf2bhpe2bjv2bq4)](https://open.spotify.com/user/3177qahnz2xbnaf2bhpe2bjv2bq4)
+<h3 align="left">I'm listening to:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact" alt="antonyfranklin24" /></p>
+[![spotify-profile](https://media.giphy.com/media/0DLrA3bkFNijBaWnup/giphy.gif)](https://open.spotify.com/user/3177qahnz2xbnaf2bhpe2bjv2bq4)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en" alt="antonyfranklin24" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antonyfranklin24&" alt="antonyfranklin24" /></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "500"/></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyfranklin24&theme=jolly" alt="antonyfranklin24" width="900" /></p>
