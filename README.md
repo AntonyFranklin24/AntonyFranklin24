@@ -43,7 +43,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" width = "400" /></p>
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "500"/></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "400"/></p>
 
 <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyfranklin24&theme=jolly" alt="antonyfranklin24" height ="400" width="990" /></p>
 
