@@ -1,6 +1,6 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
+<img align="center" alt="coding" height="400" width="1000" src="https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263">
 
-<h1 align="center">Hey veiwer, I'm Frank 🙋🏻</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Hey veiwer, I'm Frank 🙋🏻</h1>
 
 <h3 align="center">Software developer who is passionate about making contribution to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with are Visual Studio Code and Eclipse as tools/platforms.</h3>
 
@@ -39,13 +39,12 @@
 [![@antonyfranklin24's Holopin board](https://www.holopin.io/api/user/board?user=antonyfranklin24)](https://www.holopin.io/@antonyfranklin24)
 
 <h3 align="left">I'm listening to:</h3>
+<p align="left"><a href="https://open.spotify.com/user/3177qahnz2xbnaf2bhpe2bjv2bq4"><img src="https://media.giphy.com/media/0DLrA3bkFNijBaWnup/giphy.gif" width ="200"> </a> <h4 align = "right"> 👈 Click the gif to view my playlists </h4></p>
 
-[![spotify-profile](https://media.giphy.com/media/0DLrA3bkFNijBaWnup/giphy.gif)](https://open.spotify.com/user/3177qahnz2xbnaf2bhpe2bjv2bq4)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "500"/></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyfranklin24&theme=jolly" alt="antonyfranklin24" height ="400" width="990" /></p>
 
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "500"/></p>
-
-<p><img src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" /></p>
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=antonyfranklin24&theme=jolly" alt="antonyfranklin24" width="900" /></p>
