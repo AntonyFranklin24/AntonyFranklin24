@@ -41,7 +41,7 @@
 <h3 align="left">I'm listening to:</h3>
 <p align="left"><a href="https://open.spotify.com/user/3177qahnz2xbnaf2bhpe2bjv2bq4"><img src="https://media.giphy.com/media/0DLrA3bkFNijBaWnup/giphy.gif" width ="200"> </a> <h4 align = "right"> 👈 Click the gif to view my playlists </h4></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=antonyfranklin24&show_icons=true&locale=en&theme=jolly" alt="antonyfranklin24" width = "400" /></p>
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=antonyfranklin24&show_icons=true&locale=en&layout=compact&theme=jolly" alt="antonyfranklin24" width = "500"/></p>
 
